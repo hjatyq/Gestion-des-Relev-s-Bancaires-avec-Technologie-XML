@@ -17,4 +17,4 @@ Une autre feuille de style XSL affiche uniquement les opérations de type CREDIT
 
 <h1>La structure graphique de l’arbre XML</h1>
 <img src="1.png" alt="structure graphique">
-<img src="2.png" alt="structure graphique">
+<img src="2.png" alt="Résultat HTML des crédits">
