@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "TP.dtd">
+<releve RIB="233998677545300000">
+    <dateReleve>2021-11-10</dateReleve>
+    <solde>12203</solde>
+    <operations dateDebut="2001-02-03" dateFin="2001-02-30">
+        <operation  type="CREDIT"  date="2001-02-12" montant="7000" description="VERS ESPECES"/>
+        <operation  type="DEBIT"  date="2001-02-20"  montant="9000" description="Cheque"/>
+        <operation  type="CREDIT"  date="2001-05-12"  montant="97800" description="Virement"/>      
+    </operations>
+</releve>

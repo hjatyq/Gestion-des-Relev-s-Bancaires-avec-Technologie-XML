@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve xmlns:xsi="TP.xsd" RIB="">
+    <dateReleve>2000-04-09</dateReleve>
+    <solde>6736</solde>
+    <operations dateDebut="2000-04-10" dateFin="2000-04-30">
+        <operation  type="CREDIT"  date="2001-02-12" montant="7000" description="VERS ESPECES"/>
+        <operation  type="DEBIT"  date="2001-02-20"  montant="9000" description="Cheque"/>
+        <operation  type="CREDIT"  date="2001-05-12"  montant="97800" description="Virement"/>              
+    </operations>
+</releve>
