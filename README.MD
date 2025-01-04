@@ -21,4 +21,3 @@ Une autre feuille de style XSL affiche uniquement les opérations de type CREDIT
 <h1>Résultat HTML des crédits</h1>
 
 <img src="credit.png" alt="Résultat HTML des crédits">
-<img src="credit.png" alt="structure graphique">
